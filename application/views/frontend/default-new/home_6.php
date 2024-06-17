@@ -71,8 +71,8 @@
         </div>
         
         <div class="content">
-          <h4 class="title"><?php echo get_phrase('Globalization') ?></h4>
-          <p class="info"><?php echo get_phrase('Opportunity for global networking and collaboration with peers worldwide.') ?></p>
+          <h4 class="title"><?php echo get_phrase('Flexible') ?></h4>
+          <p class="info"><?php echo get_phrase('Study at your own pace and on your own schedule, empowering you to balance education and life.') ?></p>
         </div>
       </div>
       <div class="item">

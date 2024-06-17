@@ -1,5 +1,11 @@
 <!--------- footer Section Start--------------->
-<section class="footer">
+
+<section class="footer" style="background-color: #039080; color:white;">
+<style>
+        .footer a:hover {
+            color: white;
+        }
+</style>
     <div class="container">
         <div class="row">
             <div class="col-lg-5 col-md-12 col-sm-12 col-12 mb-5">
